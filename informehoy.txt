@@ -1,0 +1,9 @@
+seguir aprendiendo comandos de Git
+
+que es un sistema de control de
+Versiones
+
+
+“Como ignorar archivos para no ser comprometidos en el
+área de trabajo.
+Cambiar de ramas y volver a la principal”
